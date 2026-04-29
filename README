@@ -3,6 +3,11 @@ Tube Challenge Route Finder
 Hassan Chagani
 v1.0 2018-11-15
 
+Update 2026-04-29:
+This code in this repository is deprecated. Please see the updated application
+in the following repository:
+https://github.com/hchagani/TubeChallengeRouteFinder
+
 
 Contents
 --------
@@ -49,7 +54,7 @@ scipy 0.19.1
 -------------------------------
 Clone this repository from the command line:
 
-git clone https://github.com/hchagani/tubeChallenge_routeFinder
+git clone https://github.com/hchagani/tubeChallenge_legacy
 
 
 [UIN] Usage Instructions
